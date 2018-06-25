@@ -1,6 +1,6 @@
 # Converts a number to a Roman numeral
 
-This app converts a number to a Roman numeral
+This app converts a number to a Roman numeral using Laravel for the backend and React for the frontend.
 
 To get started, open your terminal program and cd to the directory and run the following commands:
 
