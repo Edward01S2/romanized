@@ -18,7 +18,7 @@ php artisan key:generate
 
 Change the .env.example file to just a .env file.
 
-Finally, start the dev server with
+Finally, start the dev server with and in your browser go to http://localhost:8000
 
 ```php
 php artisan serve
